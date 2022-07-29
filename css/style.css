@@ -1,0 +1,479 @@
+
+
+ #banner
+      {
+        
+        background-image:
+            linear-gradient(45deg,
+              rgba(245,70,66, 0.75),
+              rgba(8,83,156, 0.75)), url(
+'https://www.sataware.com/wp-content/uploads/2020/09/Business-Consulting-sataware-1.gif');
+            width: 100%;
+            height: 530px;
+            text-align: center;
+             color: #fff;
+             background-size: cover;
+             background-attachment: scroll;
+             display: block;
+             
+      }
+#banner h3
+{
+	 
+	border-bottom: 3px solid white;
+	padding-bottom:7px;
+	top: ;
+	padding: 7px;
+	margin-top: 10px;
+	font-weight: bold;
+	font-family: serif;
+	margin: auto;
+	color: white;
+	width:80%;
+
+}
+
+#banner .lead 
+{
+	 padding: 5px;
+	 font-size: 18px;
+	 font-family: sans-serif;
+	 text-align: justify;
+	 background: rgba(0, 0, 0, 0.2);
+	 color: white;
+	 border-radius: 7px;
+}
+
+#service
+{
+	 background-image:
+            linear-gradient(45deg,
+              rgba(245,70,66, 0.75),
+              rgba(8,83,156, 0.75)), url(
+'https://png.pngtree.com/background/20210715/original/pngtree-technology-background-binary-computer-code-vector-design-picture-image_1264148.jpg');
+            width: 100%;
+            height: 500px;
+            text-align: center;
+             color: #fff;
+             background-size: cover;
+             background-attachment: scroll;
+             display: block;
+             
+}
+
+#service h4
+{
+	font-size: 30px;
+}
+
+
+
+#service .lead,h4
+{
+	padding: 5px;
+	 font-size: 18px;
+	 font-family: sans-serif;
+	 text-align: justify;
+	 color: white;
+	 text-align: left;
+	 border-radius: 7px;
+}
+
+.innerservice
+{
+	 background: rgba(0, 0, 0, 0.2);
+}
+
+@media only screen and (max-width: 640px)
+{
+
+ 
+#service
+{
+	 background-image:
+            linear-gradient(45deg,
+              rgba(245,70,66, 0.75),
+              rgba(8,83,156, 0.75)), url(
+'https://png.pngtree.com/background/20210715/original/pngtree-technology-background-binary-computer-code-vector-design-picture-image_1264148.jpg');
+            width: 100%;
+            height: auto;
+            text-align: center;
+             color: #fff;
+             background-size: cover;
+             background-attachment: scroll;
+             display: block;
+             
+}
+
+#banner
+{
+	background-image:
+            linear-gradient(45deg,
+              rgba(245,70,66, 0.75),
+              rgba(8,83,156, 0.75)), url(
+'https://png.pngtree.com/background/20210715/original/pngtree-technology-background-binary-computer-code-vector-design-picture-image_1264148.jpg');
+            width: 100%;
+            height: auto;
+            text-align: center;
+             color: #fff;
+             background-size: cover;
+             background-attachment: scroll;
+        }
+
+
+
+#banner h3
+{
+	border-bottom: 3px solid white;
+	padding-bottom:7px;
+	padding: 7px;
+	margin-top: 10px;
+	font-weight: bold;
+	font-family: serif;
+	margin: auto;
+	color: white;
+	width:100%;
+	font-size: 25px;
+
+
+}
+
+
+}
+
+.owl-prev
+{
+	display: none;
+}
+
+#carousel h2
+{
+	
+	padding-bottom:7px;
+	padding: 10px;
+	font-size: 35px;
+	margin-top: 10px;
+	font-weight: bold;
+	font-family: serif;
+	margin: auto;
+	color: white;
+	width:100%;
+
+}
+
+#about h3
+{
+	padding-bottom:7px;
+	padding: 10px;
+	font-size: 35px;
+	font-family: serif;
+	margin-top: 10px;
+	font-weight: bold;
+	font-family: serif;
+	margin: auto;
+	color: white;
+	width:100%;
+}
+
+#about p
+{
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+
+}
+
+#layer
+{
+	background-image:
+            linear-gradient(45deg,
+              rgba(200,70,64, 0.75),
+              rgba(8,89,256, 0.75)), url('https://images.unsplash.com/photo-1587620962725-abab7fe55159?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHByb2dyYW1taW5nfGVufDB8fHx8MTY0MTU2NTMyMQ&ixlib=rb-1.2.1&q=80&w=2000');
+            width: 100%;
+            height: 530px;
+            text-align: center;
+             color: #fff;
+             background-size: cover;
+             background-attachment:fixed;
+}
+
+.icon svg
+{
+	color: blue;
+	padding: 3px;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+  transition: 1s;
+}
+
+.icon svg:hover
+{
+	color: lightblue;
+	background: ghostwhite;
+	}
+
+.icon .counter 
+{
+	font-size: 45px;
+	font-weight: bold;
+	font-family: serif;
+
+}
+.icon .plus
+{
+	font-size: 45px;
+	font-weight: bold;
+	font-family: serif; 
+}
+
+.blog
+{
+	background: red url('https://fsa2-assets.imgix.net/assets/laptop-coding-terminal.jpg?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-3.3.0&w=1280');
+	width: 100%;
+background-attachment: fixed;
+background-size: cover;
+	height:300px;
+
+
+}
+.color
+{
+	background: rgba(97, 190, 189, 0.72);
+	border-radius: 10px;
+
+}
+.color h2
+{
+	padding-bottom:7px;
+	padding: 10px;
+	font-size: 35px;
+	font-family: serif;
+	margin-top: 10px;
+	font-weight: bold;
+	font-family: serif;
+	margin: auto;
+	color: white;
+	width:100%;
+}
+
+@media only screen and (max-width: 640px)
+{
+
+.blog
+{
+	background: red url('https://fsa2-assets.imgix.net/assets/laptop-coding-terminal.jpg?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&ixlib=php-3.3.0&w=1280');
+	width: 100%;
+background-attachment:scroll;
+background-size: cover;
+	height:250px;
+	border-radius: 0px 10px 10px 0px;
+
+}
+
+} 
+  
+  #cards
+  {
+  	 background-blend-mode: lighten;
+  	 background-repeat: no-repeat, repeat;
+  	 background-size: 100% 100%;
+  	 background-attachment: fixed;
+  	 transition: 2s;
+  	background-image: url('https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+  }
+
+  #cards .card:hover  
+  {
+  	 transform: scale(1.1);
+  	 background-color:rgba(255,255,255,0.4);
+  }
+
+
+.card-img-top 
+{
+	 height: 250px;
+}
+
+#cards .card 
+{
+
+ background:linear-gradient(to right, rgba(204, 83, 51, 0.6), rgba(35, 7, 77, 0.2)); 
+ padding: 7px;
+
+}
+
+.socilicon svg 
+{
+	 width: 50px;
+	 height: 50px;
+	 padding: 7px;
+	 color: white;
+	 margin-top: 10px;
+	 background: blue;
+	 border-radius: 7px;
+	 transition: 1s;
+}
+
+.socilicon svg:hover 
+{
+	 color: whitesmoke;
+	 background: black;
+}
+
+
+.load
+{
+    background:black url('https://blog.hubspot.com/hs-fs/hubfs/3fdca92b583372667c5943ee6bae0787.gif?width=1500&name=3fdca92b583372667c5943ee6bae0787.gif');
+    background-position: center;
+    background-repeat: no-repeat;	 
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+
+}
+
+
+#webcoderskull{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    padding: 0 20px;
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    height:100vh;
+    background-color:#16a085;
+}
+#webcoderskull h1{
+  letter-spacing: 5px;
+  font-size: 5rem;
+  font-family: 'Roboto', sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+#aboutus
+{
+	background:  url('img/svg.png');
+	background-position: center;
+	background-size: cover;
+
+}
+
+#socialform .card a img 
+{
+	   display: block;
+	   margin: auto;
+	   padding: 10px;
+	 
+
+}
+
+@media only screen and (max-width: 640px)
+{
+
+#socialform .card a img 
+{
+	 
+	   width:100%;
+	   height: 100%;
+
+}
+
+#socialform .card
+{
+	   display: block;
+	   margin: auto;
+	   width:100%;
+
+}
+}
+
+#aboutus .card:hover 
+{
+	  box-shadow: 5px 10px #888888;
+	  transform: translate(10px);
+}
+
+.Company
+{
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background: url('https://media.istockphoto.com/photos/african-american-female-student-studying-in-modern-university-with-picture-id1363276495');
+}
+
+.Company p,h5
+{
+	background: rgba(225,225,225, 0.3);
+	padding: 7px;
+}
+
+.Company .card-img
+{
+	 height: auto;
+}
+
+.card-img .card-img-overlay
+{
+   height: auto;
+
+}
+
+#sapdel svg 
+{
+	 color: blue;
+	 width: 70px;
+	 height: 70px;
+	 padding: 20px;
+	 display: block;
+	 margin: auto;
+	 border: 2px solid blue;
+	 border-radius: 50%;
+	 text-align: center;
+	 transition: 1s;
+}
+
+#sapdel a
+{
+	text-decoration: none;
+}
+
+#sapdel svg:hover
+{
+	background: blue;
+	color: white;
+}
+
+
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  width: auto;
+  height: auto;
+  left: 20px;
+  z-index: 99;
+  padding: 7px;
+  border: none;
+  background:blue;
+  outline: none;
+  color: white;
+  cursor: pointer;
+  border-radius:50%;
+
+}
+
+#myBtn:hover {
+  background-color: blue ;
+  color: white;
+  transform: scale(1.1);
+}
+
